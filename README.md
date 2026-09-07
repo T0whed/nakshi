@@ -8,7 +8,7 @@ and assembles them into a verified EU Digital Product Passport for every order. 
 way it runs a reconciliation engine that tests each claim against the evidence meant to
 back it, and catches the ones that don't add up before the goods ship.
 
-**Live demo → [https://t0whed.github.io/nakshi/]**
+**Live demo → https://t0whed.github.io/nakshi/**
 
 > A *nakshi kantha* records a story in its stitches: who made it, from what, over how long.
 > A garment leaving Chattogram should be able to do the same.
