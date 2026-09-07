@@ -190,7 +190,7 @@ Built for the SUST selection for the National AI Business Summit 2026, Dhaka.
 
 ## Contact
 
-[your name] · <towheduzzamantowhed@gmail.com> · Shahjalal University of Science and Technology, Sylhet
+[Towheduzzaman] · <towheduzzamantowhed@gmail.com> · Shahjalal University of Science and Technology, Sylhet
 
 ## Licence
 
